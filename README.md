@@ -1,5 +1,7 @@
 # ko-contrib-utils
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Profiscience/ko-contrib-utils.svg)](https://greenkeeper.io/)
+
 [![NPM Version](https://img.shields.io/npm/v/ko-contrib-utils.svg)](https://www.npmjs.com/package/ko-contrib-utils)
 ![WTFPL](https://img.shields.io/npm/l/ko-contrib-utils.svg)
 [![Travis](https://img.shields.io/travis/Profiscience/ko-contrib-utils.svg)](https://travis-ci.org/Profiscience/ko-contrib-utils)
