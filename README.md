@@ -6,6 +6,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/Profiscience/ko-contrib-utils/badge.svg?branch=master)](https://coveralls.io/github/Profiscience/ko-contrib-utils?branch=master)
 [![Dependency Status](https://img.shields.io/david/Profiscience/ko-contrib-utils.svg)](https://david-dm.org/Profiscience/ko-contrib-utils)
 [![Peer Dependency Status](https://img.shields.io/david/peer/Profiscience/ko-contrib-utils.svg?maxAge=2592000)](https://david-dm.org/Profiscience/ko-contrib-utils#info=peerDependencies&view=table)
+[![Greenkeeper badge](https://badges.greenkeeper.io/Profiscience/ko-contrib-utils.svg)](https://greenkeeper.io/)
 
 ### Table of Contents
 - [defaults](#defaultsdest-defaultvalues-maparrays--false)
